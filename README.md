@@ -16,4 +16,4 @@ Thank you for offering to share your knowledge to the Des Moines Tech community 
 
 If you are a presenter and have any questions please reach to the organizer who asked you to present or via the Meetup.com group page.
 
-If you stumbled upon this repo and have interest in (DevOpsDSM)[https://www.devopsdsm.com] please reach out to us via the Meetup.com group page.
+If you stumbled upon this repo and have interest in [DevOpsDSM](https://www.devopsdsm.com), please reach out to us via the Meetup.com group page.
