@@ -4,8 +4,9 @@ Thank you for offering to share your knowledge to the Des Moines Tech community 
 
 ## Before Presenting
 - [ ] Provide Organizer a Title, brief description, and headshot that we can use for any social posts
-- [ ] Invite your friends/colleagues to your talk!
 - [ ] Ensure your laptop or device is compatible with connecting to HDMI
+- [ ] Invite your friends/colleagues to your talk!
+
 
 ## Day of Presenting
 - [ ] Plan to arrive 15 minutes early so we can do a quick AV check with your laptop via HDMI
@@ -16,4 +17,4 @@ Thank you for offering to share your knowledge to the Des Moines Tech community 
 
 If you are a presenter and have any questions please reach to the organizer who asked you to present or via the Meetup.com group page.
 
-If you stumbled upon this repo and have interest in [DevOpsDSM](https://www.devopsdsm.com), please reach out to us via the Meetup.com group page.
+If you stumbled upon this repo and have interest in [DevOpsDSM](https://www.devopsdsm.com), please check us out via the Meetup.com group page.
