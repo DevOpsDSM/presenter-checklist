@@ -3,7 +3,7 @@
 Thank you for offering to share your knowledge to the Des Moines Tech community by presenting at DevOpsDSM.  In order to make this process easy for everyone involved here is a helpful checklist to ensure you are ready to go. 
 
 ## Before Presenting
-- [ ] Provide Organizer a Title, brief description, and headshot that we can use for any social posts
+- [ ] Provide an Organizer: a Title, brief description of talk, and headshot that we can use for any social posts.
 - [ ] Ensure your laptop or device is compatible with connecting to HDMI
 - [ ] Invite your friends/colleagues to your talk!
 
