@@ -10,7 +10,7 @@ Thank you for offering to share your knowledge to the Des Moines Tech community 
 
 ## Day of Presenting
 - [ ] Plan to arrive 15 minutes early so we can do a quick AV check with your laptop via HDMI
-- [ ] Ensure laptop or device screen resolution is #####x#### and any font used is ##px (TBD)
+- [ ] Ensure laptop or device screen resolution is 2560x and zoom level for vs code is "6"
 - [ ] We recommend to use Screen mirroring for simplicity but not required
 
 ## Contact
