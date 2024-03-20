@@ -12,6 +12,7 @@ Thank you for offering to share your knowledge to the Des Moines Tech community 
 - [ ] Plan to arrive 15 minutes early so we can do a quick AV check with your laptop via HDMI
 - [ ] Ensure laptop or device screen resolution is 2560x and zoom level for vs code is "6"
 - [ ] We recommend to use Screen mirroring for simplicity but not required
+- [ ] Be aware that we will ensure the time alloted for your talk is not exceeded. We will give you some visual indiciation of how much time is remaining
 
 ## Contact
 
