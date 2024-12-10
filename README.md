@@ -4,14 +4,14 @@ Thank you for offering to share your knowledge to the Des Moines Tech community 
 
 ## Before Presenting
 - [ ] Provide an Organizer: a Title, brief description of talk, and headshot that we can use for any social posts.
-- [ ] Ensure your laptop or device is compatible with connecting to HDMI
+- [ ] Email address that will be used for Google Hangout meeting invite.
+- [ ] Ensure your laptop or device is capable of joining a Google Hangout meeting to share your screen (We will provide wifi access)
 - [ ] Invite your friends/colleagues to your talk!
 
 
 ## Day of Presenting
-- [ ] Plan to arrive 15 minutes early so we can do a quick AV check with your laptop via HDMI
+- [ ] Plan to arrive 15 minutes early so we can do a quick AV check with your laptop on Google Hangout
 - [ ] Ensure laptop or device screen resolution is 2560x and zoom level for vs code is "6"
-- [ ] We recommend to use Screen mirroring for simplicity but not required
 - [ ] Be aware that we will ensure the time alloted for your talk is not exceeded. We will give you some visual indiciation of how much time is remaining
 
 ## Contact
