@@ -8,7 +8,7 @@ This is the checklist of items that need to be completed before hosting our mont
 - [ ] [Presenter Checklist](README.md) shared with Presenter - (Assignee)
 
 ## Week of the Event
-- [ ] Follow up with the Presenter to ensure they are still available - (Asisgnee)
+- [ ] Follow up with the Presenter to ensure they are still available - (Assignee)
 - [ ] Order Food for attendees - (Assignee)
 - [ ] Whiteboard with “welcome message” - (Assignee)
 
@@ -18,4 +18,5 @@ This is the checklist of items that need to be completed before hosting our mont
 - [ ] Who will be monitoring AV/Twitch Stream? - (Assignee)
 - [ ] WIFI testing - (Assignee)
 - [ ] Testing AV/Twitch - (Assignee)
+- [ ] Create Google Meeting/Zoom and send invite presenters that need to share - (Jonathan)
 - [ ] Message to SAI-Office that we are having a user group, clear confidential customer - (Assignee)
