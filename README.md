@@ -4,6 +4,7 @@ Thank you for offering to share your knowledge to the Des Moines Tech community 
 
 ## Before Presenting
 - [ ] Provide an Organizer: a Title, brief description of talk, and headshot that we can use for any social posts.
+- [ ] Please inform us of any Social Media restrictions that you would like (Example - No photo, No company information, etc)
 - [ ] Email address that will be used for Google Hangout meeting invite.
 - [ ] Ensure your laptop or device is capable of joining a Google Hangout meeting to share your screen (We will provide wifi access)
 - [ ] Invite your friends/colleagues to your talk!
